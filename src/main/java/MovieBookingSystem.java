@@ -29,7 +29,7 @@ public class MovieBookingSystem {
             }
         });
 
-        panel.add(new JLabel("Select a Movie:"));
+        panel.add(new JLabel("Select a Movie: "));
         panel.add(movieComboBox);
         panel.add(bookButton);
 
