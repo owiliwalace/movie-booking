@@ -1,9 +1,9 @@
-          import javax.swing.*;
+ import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.ArrayList;
 import java.util.List;
-
+       
 public class MovieBookingSystem {
     public static void main(String[] args) {
         List<Movie> movies = generateMovieList();
